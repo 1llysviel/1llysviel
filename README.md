@@ -18,8 +18,6 @@ pronouns: "He" | "Him",
 
 > 📦 27.9 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -74,6 +72,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2024 18:47:38 UTC
+ Last Updated on 12/12/2024 18:47:34 UTC
 <!--END_SECTION:waka-->
 
