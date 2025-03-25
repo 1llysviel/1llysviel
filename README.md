@@ -49,10 +49,11 @@ Sunday                   30 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 13 mins        █████████████████████░░░░   84.72 % 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,6 +69,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 18:46:50 UTC
+ Last Updated on 25/03/2025 18:46:32 UTC
 <!--END_SECTION:waka-->
 
