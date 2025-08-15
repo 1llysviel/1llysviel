@@ -18,8 +18,6 @@ pronouns: "He" | "Him",
 
 > 📦 28.5 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -51,10 +49,14 @@ Sunday                   30 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      6 mins              █████████████████████░░░░   85.26 % 
+Dart                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+CocoaPods                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,6 +72,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 18:52:48 UTC
+ Last Updated on 15/08/2025 18:51:25 UTC
 <!--END_SECTION:waka-->
 
