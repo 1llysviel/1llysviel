@@ -12,7 +12,7 @@ pronouns: "He" | "Him",
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,6 +70,6 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:50:27 UTC
+ Last Updated on 05/01/2026 18:55:14 UTC
 <!--END_SECTION:waka-->
 
