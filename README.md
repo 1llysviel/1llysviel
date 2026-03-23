@@ -18,7 +18,7 @@ pronouns: "He" | "Him",
 
 > 📦 36.2 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 35 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +60,16 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 22/03/2026 19:01:32 UTC
+ Last Updated on 23/03/2026 19:26:45 UTC
 <!--END_SECTION:waka-->
 
